@@ -18,3 +18,13 @@
     padding: 10px 30px;
     cursor: pointer;
 }
+.wd{
+    background-image: linear-gradient(to bottom, #FF5898 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 9px;
+    padding: 10px 50px;
+    margin-left: 200px ;
+    margin-right: 200px;
+    cursor: pointer;
+}
